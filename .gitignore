@@ -1,0 +1,8 @@
+# files to ignore in repo
+michelskoglund-CodeLabs-6544916959f0.json
+# Terraform
+.terraform/
+terraform/.terraform
+*.tfstate
+*.tfstate.backup
+
